@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 const _imageUrl =
     "https://www.mpadeco.com/resize/500x500/zc/3/f/0/src/sites/mpadeco/files/products/218.png";
 const _imageLocal = "images/diamond.png";
-const _titleString = "I am rich";
+const _titleString = "I am Rich";
 
 Image _localImage = const Image(
   image: AssetImage(_imageLocal),
